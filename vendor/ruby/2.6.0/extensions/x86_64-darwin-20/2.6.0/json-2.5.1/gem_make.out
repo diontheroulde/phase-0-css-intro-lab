@@ -1,0 +1,13 @@
+current directory: /Users/diontherouldejr/defenders/phase-0/phase-0-css-intro-lab/vendor/ruby/2.6.0/gems/json-2.5.1/ext/json
+/Users/diontherouldejr/.asdf/installs/ruby/2.6.1/bin/ruby -I /Users/diontherouldejr/.asdf/installs/ruby/2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20211101-79307-1im3oi0.rb extconf.rb
+creating Makefile
+
+current directory: /Users/diontherouldejr/defenders/phase-0/phase-0-css-intro-lab/vendor/ruby/2.6.0/gems/json-2.5.1/ext/json
+make DESTDIR\= clean
+
+current directory: /Users/diontherouldejr/defenders/phase-0/phase-0-css-intro-lab/vendor/ruby/2.6.0/gems/json-2.5.1/ext/json
+make DESTDIR\=
+make: Nothing to be done for `all'.
+
+current directory: /Users/diontherouldejr/defenders/phase-0/phase-0-css-intro-lab/vendor/ruby/2.6.0/gems/json-2.5.1/ext/json
+make DESTDIR\= install
